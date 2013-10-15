@@ -3,6 +3,8 @@
 * [Git](#git)
 * [HTML/CSS](#html--css)
 * [Javascript](#javascript)
+    * [jQuery](#jquery)
+    * [Node.js](#node--js)
 * [PHP](#php)
 * [Python](#python)
 
@@ -19,6 +21,12 @@
 ##Javascript
 * [Introducción a AJAX](http://librosweb.es/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/javascript/)
+
+###jQuery
+* [Fundamentos de jQuery](http://librojquery.com/)
+
+###Node.js
+* [El Libro para Principiantes en Node.js](http://www.nodebeginner.org/index-es.html)
 
 ## PHP
 * [Composer, el manual oficial](http://librosweb.es/composer/)
