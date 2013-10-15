@@ -26,5 +26,14 @@
 * [Symfony2, el libro oficial](http://librosweb.es/symfony_2_x/)
 
 ##Python
+* [A byte of Python](http://dev.laptop.org/~edsiper/byteofpython_spanish/)
+* [Aprendiendo a programar](http://www.freenetpages.co.uk/hp/alan.gauld/spanish/)
 * [Cómo Pensar como un Informático: El aprender con Python](http://www.openbookproject.net/thinkcs/archive/python/spanish2e/)
+* [Doma de Serpientes para Niños](https://code.google.com/p/swfk-es/)
+* [Inmersión en Python](http://es.diveintopython.net/)
+* [Inmersión en Python 3](https://code.google.com/p/inmersionenpython3/)
+* [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf) (PDF)
+* [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
+* [Python No Muerde](http://nomuerde.netmanagers.com.ar/)
 * [Python para todos](http://mundogeek.net/tutorial-python/)
+* [Tutor de Python para No-Programadores](http://jjc.freeshell.org/easytut/easytut_es/)
