@@ -1,10 +1,11 @@
 Índice
 ======
 * [Git](#git)
-* [HTML/CSS](#html--css)
+* [HTML/CSS](#htmlcss)
+* [Java](#java)
 * [Javascript](#javascript)
     * [jQuery](#jquery)
-    * [Node.js](#node--js)
+    * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
 
@@ -17,6 +18,10 @@
 * [Introducción a CSS](http://librosweb.es/css/)
 * [Introducción a XHTML](http://librosweb.es/xhtml/)
 * [Referencia de CSS 2.1](http://librosweb.es/referencia/css/)
+
+##Java
+* [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/ebook.html)
+* [Java a través de ejemplos](http://eui.upm.es/~jbobi/jbobi/LibroJava2.htm)
 
 ##Javascript
 * [Introducción a AJAX](http://librosweb.es/ajax/)
