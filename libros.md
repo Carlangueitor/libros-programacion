@@ -1,5 +1,7 @@
 Índice
 ======
+* [C](#c)
+* [C++](#c-1)
 * [Git](#git)
 * [HTML/CSS](#htmlcss)
 * [Java](#java)
@@ -8,6 +10,17 @@
     * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+
+##C
+* [Introducción a la Programación con C](http://campuscurico.utalca.cl/~rgarrido/recursos/c.pdf)
+* [Fundamentos de programación en C](http://www.nachocabanes.com/c/curso/)
+* [Programación en C (wikibook)](http://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C)
+
+##C++
+* [Aprenda C++ como si estuviera en primero](http://mec21.etsii.upm.es/ayudainf/aprendainf/cpp/manualcpp.pdf)
+* [Curso de C++](http://c.conclase.net/curso/)
+* [Programación en C++ (wikibook)](http://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B)
+* [Tutorial de C++: o el diario de Peter Class](http://es.tldp.org/Manuales-LuCAS/doc-tutorial-c++/doc-tutorial-c++.pdf)
 
 ## Git
 * [Pro Git, el libro oficial de Git](http://librosweb.es/pro_git/)
@@ -20,11 +33,18 @@
 * [Referencia de CSS 2.1](http://librosweb.es/referencia/css/)
 
 ##Java
+* [Aprenda Java como si estuviera en primero.](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/Java/Java2.pdf)
+* [Aprenda Servlets de Java como si estuviera en primero.](http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/javaservlets/servlets.pdf)
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/ebook.html)
+* [Aprendiendo Java y Programación Orientada a Objetos](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/el-libro/)
+* [Concurrencia en Java](http://rt00149b.eresmas.net/Otras/ConcurrenciaJAVA/)
+* [Curso de Java Básico](http://www.garikoitz.info/archivos/files/Manuales%20genericos/Manual_Java_%28Nivel_basico%29.pdf)
+* [Introducción al lenguaje de programación Java](http://www3.uji.es/~belfern/pdidoc/IX26/Documentos/introJava.pdf)
 * [Java a través de ejemplos](http://eui.upm.es/~jbobi/jbobi/LibroJava2.htm)
 * [Programación en Java (wikibook)](http://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java)
-* [Introducción al lenguaje de programación Java](http://www3.uji.es/~belfern/pdidoc/IX26/Documentos/introJava.pdf)
+* [Programación en Java (Curso de Verano de Málaga.)](http://www.sicuma.uma.es/sicuma/Formacion/documentacion/Total-Java.pdf)
+* [Tutorial básico de Java EE](http://www.javahispano.org/storage/contenidos/JavaEE.pdf)
 
 ##Javascript
 * [Introducción a AJAX](http://librosweb.es/ajax/)
