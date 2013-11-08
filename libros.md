@@ -21,7 +21,10 @@
 
 ##Java
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/ebook.html)
+* [Arquitectura Java Sólida](http://www.arquitecturajava.com/el-libro/)
 * [Java a través de ejemplos](http://eui.upm.es/~jbobi/jbobi/LibroJava2.htm)
+* [Programación en Java (wikibook)](http://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java)
+* [Introducción al lenguaje de programación Java](http://www3.uji.es/~belfern/pdidoc/IX26/Documentos/introJava.pdf)
 
 ##Javascript
 * [Introducción a AJAX](http://librosweb.es/ajax/)
